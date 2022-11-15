@@ -13,4 +13,4 @@ request_cpus = 1
 request_memory = 1GB
 request_disk = 1GB
 
-queue sleeptime in (60 120 300 600 2700)
+queue sleeptime in (60 120 300 600 3600)
